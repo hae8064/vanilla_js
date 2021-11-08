@@ -1,0 +1,38 @@
+.hidden {
+  display: none;
+}
+
+img {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  padding: 0px 20px;
+  text-align: center;
+  text-decoration: underline grey;
+}
+
+h2 {
+  position: absolute;
+  color: blue;
+}
+
+#todo-form {
+  text-align: center;
+}
+ul {
+  align-items: center;
+}
+
+#quote {
+  /* left: 0;
+  bottom: 0; */
+  width: 100%;
+  padding: 10px 0;
+  text-align: center;
+  color: white;
+  background: grey;
+}
